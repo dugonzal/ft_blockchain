@@ -10,4 +10,3 @@ import hashlib
 
 # To store data
 # in our blockchain
-
