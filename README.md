@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a blockchain implementation in python 3 It is a simple implementation of a blockchain, with a proof of work algorithm, and a simple consensus algorithm (the longest chain wins)
+This project is a blockchain implementation in python3 It is a simple implementation of a blockchain, with a proof of work algorithm, and a simple consensus algorithm (the longest chain wins)
 rest api is implemented using flask
 
 ## Installation
